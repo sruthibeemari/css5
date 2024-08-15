@@ -1,0 +1,57 @@
+.div1{
+ 
+    background-color: rgb(232, 180, 111)
+   
+  }
+  .a1{
+    margin-left: 600px;
+    
+   
+  }
+  .a2{
+    margin-left: 20px;
+  }
+  .a3{
+    margin-left: 20px;
+  }
+  .a4{
+    margin-left: 20px;
+  }
+  .img1{
+    margin-left:100px ;
+   padding-top:30px ;
+   padding-bottom:30px ;
+   vertical-align: middle;
+  }
+  .span1{
+    background-color: rgb(212, 135, 79);
+    padding:10px 10px 10px 10px;
+    display:inline-block ;
+    width: 300px;
+    margin-top:10px ;
+    margin-bottom: 30px;
+  }
+  .span2{
+    background-color: rgb(150, 150, 246);
+   padding:10px 10px 10px 10px;
+   display:inline-block;
+   width: 800px;
+   margin-left: 103px;
+   }
+   .div2{
+ 
+    background-color: rgb(144, 224, 241);
+    
+   
+  }
+  .img2{
+    margin-left:100px ;
+   padding-top:30px ;
+   padding-bottom:30px ;
+   vertical-align: middle;
+  }
+ body{
+    background:url(./apple.jpg) ;
+    background-size: cover;
+
+  }
